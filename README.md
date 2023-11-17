@@ -1,2 +1,2 @@
 # wl-theme-license-fc
-Weblasser theme licensing WordPress plugin
+This plugin is responsible for licensing Weblasser's theme only. 
